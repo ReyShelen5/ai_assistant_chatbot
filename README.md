@@ -45,6 +45,9 @@ Folder Structure:
         ├── chat_assistant.py
         ├── requirements.txt
         |── README.md
+        |-- setup.sh
+        |-- .env.sample
+        
 
 
 
